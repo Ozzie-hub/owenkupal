@@ -1,0 +1,28 @@
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainLoadingForm.resources
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LibraryForm.resources
+C:\Users\joshu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IssueBook.resources
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainLoadingForm.resources
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LibraryForm.resources
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IssueBook.resources
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Visual Studio 2022\Created & Saved Projects\MINI CAPSTONE PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
